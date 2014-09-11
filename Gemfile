@@ -9,6 +9,9 @@ gem 'sqlite3'
 # Use carrierwave to upload files
 gem 'carrierwave'
 
+# Use devise for authentication
+gem 'devise'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
 
